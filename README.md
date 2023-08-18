@@ -36,7 +36,7 @@
 
 ## 📊 Scores:
 
-| GitHub stats                             | LeetCode                               |
+| GitHub                              | LeetCode                               |
 |---------------------------------------------|----------------------------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=u-l-m-s&show_icons=true&theme=radical) | ![LeetCode](https://leetcard.jacoblin.cool/u-l-m-s?theme=dark&font=Anek%20Kannada&ext=heatmap) |
 |                               |                               |
