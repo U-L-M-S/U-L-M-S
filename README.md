@@ -36,6 +36,14 @@
 
 ## 📊 Scores:
 
+## 📊 Scores:
+
+|                               |                                |
+|---------------------------------------------|----------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=u-l-m-s&show_icons=true&theme=dark) | ![LeetCode](https://leetcard.jacoblin.cool/u-l-m-s?theme=dark&font=Anek%20Kannada&ext=heatmap) |
+|                               |                               |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=u-l-m-s&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-l-m-s&theme=dark&hide_progress=false&layout=donut)
+
 
 ![LeetCode](https://leetcard.jacoblin.cool/u-l-m-s?theme=dark&font=Anek%20Kannada&ext=heatmap)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=u-l-m-s&show_icons=true&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=u-l-m-s&theme=dark&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=400&type=png)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-l-m-s&theme=dark&hide_progress=false&layout=donut)
