@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Uinclis</h1>
 <h3 align="center">💻 Server Developer</h3>
 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
 
 - 🔭 I’m currently working on [Collax](https://www.collax.com/)
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 🤝 I’m looking for help with **Projects**
+- 🤝 I’m looking for help with **any projects**
 
 - 📫 How to reach me **uinclis[at]outlook.de**
-
+ 
 - 📄 Know about my experiences [https://uinclis.github.io/](https://uinclis.github.io/)
+
+- 🌍 Germany, Baden-Wüttenberg
+
+
+
+
+
 
 <p align="left">
 </p>
@@ -27,7 +36,7 @@
   </a>
 </p>
 
-## 🧰Tools/Frameworks:
+## 🧰Tools / Frameworks:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,docker,vim,neovim,vscode,django,linux,nodejs,postman" />
