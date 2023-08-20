@@ -23,16 +23,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
  
-
-
-
-
-
 <p align="left">
 </p>
 
+<h2 align="left"> 💻Programming/Markup Languages 💻</h2>
 
-## 💻Programming / Markup Languages:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,14 +35,15 @@
   </a>
 </p>
 
-## 🧰Tools / Frameworks:
+<h2 align="left">🧰 Tools/Frameworks 🧰</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,docker,vim,neovim,vscode,django,linux,nodejs,postman" />
   </a>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 
 <br>
 <div align=center>
