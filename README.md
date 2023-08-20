@@ -47,8 +47,8 @@
 
 <br>
 <div align=center>
-  <img width=415 src="https://streak-stats.demolab.com/?user=u-l-m-s&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=395 src="https://github-readme-stats-salesp07.vercel.app/api?username=u-l-m-s&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=410 src="https://streak-stats.demolab.com/?user=u-l-m-s&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=u-l-m-s&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=u-l-m-s&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=400 src="https://leetcard.jacoblin.cool/u-l-m-s?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
