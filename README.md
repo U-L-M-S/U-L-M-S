@@ -26,7 +26,7 @@
 <p align="left">
 </p>
 
-<h2 align="left"> 💻Programming/Markup Languages 💻</h2>
+<h2 align="left">💻 Programming/Markup Languages 💻</h2>
 
 
 <p align="center">
