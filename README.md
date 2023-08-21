@@ -45,7 +45,7 @@
 
  <h2>🐧 OS/Distros 🐧 </h2>
 
-> Yup, *I use Arch btw* :P
+> Yup, *I use Arch btw* 😁
 
 <p>
   <a alt="Arch">
