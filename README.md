@@ -43,30 +43,30 @@
   </a>
 </p>
 
-<h2>⚡ Operating Systems and distros I use</h2>
+ <h2>🐧 OS/Distros 🐧 </h2>
 
 > Yup, *I use Arch btw* :P
 
 <p>
-  <a href="https://github.com/Youngermaster/Arch-dotfiles">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=archlinux&logoColor=white&color=blue" />
+  <a alt="Arch">
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=archlinux&logoColor=blue&color=white" />
   </a>
-  <a href="https://github.com/Youngermaster/Fedora-dotfiles">
+  <img alt="Debian"
+    src="https://img.shields.io/badge/Debian-C51A4A?style=for-the-badge&logo=Debian" />
+  <a alt="Fedora">
   <img alt="Fedora"
     src="https://img.shields.io/badge/Fedora-0078D6?style=for-the-badge&logo=fedora&logoColor=white"/>
   </a>
-  <a href="https://github.com/Youngermaster/Ubuntu-dotfiles">
+  <a alt="Pop_os!">
   <img alt="Pop OS"
     src="https://img.shields.io/badge/PopOs-49B3BF?style=for-the-badge&logo=popos&logoColor=white"/>
   </a>
-  <a href="https://github.com/Youngermaster/Hacking-Startup">
+  <a alt="Kali Linux">
   <img alt="Kali Linux"
-    src="https://img.shields.io/badge/Kali-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=white&color=purple"/>
+    src="https://img.shields.io/badge/Kali-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=white&color=black"/>
   </a>
   <img alt="Windows 11"
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="Raspberry Pi"
-    src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 </p>
 
 <h2 align="left">⚡ Stats ⚡</h2>
