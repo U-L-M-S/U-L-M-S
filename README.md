@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 🤝 I’m looking for help with **any projects**
+-  I’m looking for help with **any projects**
 
 - 📫 How to reach me **uinclis[at]outlook.de**
  
