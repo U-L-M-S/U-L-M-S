@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h2 align="left"> Tools/Frameworks 🧰</h2>
+<h2 align="left">🧰 Tools/Frameworks 🧰</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
