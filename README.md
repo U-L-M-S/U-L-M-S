@@ -76,9 +76,6 @@
   <a href="https://tryhackme.com/p/Lyyyyynx"> <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" alt="TryHackMe Torva Messor"> </a>
 </div>
 
-<br/><br/>
-
-
 <h2 align="left">⚡ Coding Stats ⚡</h2>
 
 <br>
