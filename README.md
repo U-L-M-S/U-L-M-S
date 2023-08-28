@@ -67,7 +67,25 @@
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-<h2 align="left">⚡ Stats ⚡</h2>
+
+
+<h2>💉 Pentesting stats 💉</h2>
+<div>
+  <a href="https://app.hackthebox.com/profile/1621662">
+            <img src="http://www.hackthebox.eu/badge/image/1621662" height=57 alt="Hack The Box TheTorva">
+  </a>
+</div>
+
+<div>
+    <a href="https://tryhackme.com/p/Lyyyyynx">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Lyyyyynx.png" alt="TryHackMe TheTorva">
+    </a>
+</div>
+
+<br/><br/>
+
+
+<h2 align="left">⚡ Coding Stats ⚡</h2>
 
 <br>
 <div align=center>
