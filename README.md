@@ -77,7 +77,7 @@
 </div>
 <div>
     <a href="https://tryhackme.com/p/Lyyyyynx">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Lyyyyynx.png" alt="TryHackMe TheTorva">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" alt="TryHackMe Torva Messor">
     </a>
 </div>
 
