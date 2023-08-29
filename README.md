@@ -27,7 +27,7 @@
 <h2 align="left">💻 Programming/Markup Languages 💻</h2>
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,html,css,py,js,php,dotnet,mysql,md," />
   </a>
@@ -35,7 +35,7 @@
 
 <h2 align="left">🧰 Tools/Frameworks 🧰</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,bootstrap,docker,vim,neovim,vscode,django,linux,nodejs,postman" />
   </a>
