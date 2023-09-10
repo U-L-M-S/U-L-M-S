@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,html,css,py,js,php,dotnet,mysql,md," />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,html,css,py,js,php,dotnet,mysql,perl,md," />
   </a>
 </p>
 
