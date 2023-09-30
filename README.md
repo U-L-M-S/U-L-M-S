@@ -90,12 +90,21 @@
 <hr/>
 
 
-<h2 align="left">✍️ Dev Quote ✍️ / 😂 Dev Meme 😂</h2>
+<h2 align="left">✍️ Dev Quote ✍️</h2>
 
 <div align=center>
-<img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
-<img width=400 src='https://randommeme-five.vercel.app/'/>
+  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </div>
+
+<br/>
+
+
+<h2 align="left">😂 Dev Meme 😂</h2>
+
+<div align=center>
+  <img width=400 src='https://randommeme-five.vercel.app/'/>
+</div>
+
 
 <br/>
 
