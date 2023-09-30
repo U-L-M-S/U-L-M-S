@@ -92,7 +92,7 @@
 
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
-<div align=center>
+<div align=left>
   <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </div>
 
@@ -101,7 +101,7 @@
 
 <h2 align="left">😂 Dev Meme 😂</h2>
 
-<div align=center>
+<div align=left>
   <img width=400 src='https://randommeme-five.vercel.app/'/>
 </div>
 
