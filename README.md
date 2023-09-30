@@ -92,7 +92,7 @@
 
 <h2 align="left">✍️ Random Dev Quote ✍️</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width=1050 height=1200 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' />
 
 <br/>
 
