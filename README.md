@@ -90,9 +90,12 @@
 <hr/>
 
 
-<h2 align="left">✍️ Random Dev Quote ✍️</h2>
+<h2 align="left">✍️ Dev Quote ✍️</h2>
 
-<img width=1050 height=1200 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' />
+<div align=center>
+<img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+<img width=400 src='https://randommeme-five.vercel.app/'/>
+</div>
 
 <br/>
 
