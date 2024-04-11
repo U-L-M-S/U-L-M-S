@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **uinclis[at]outlook.de**
  
-- 📄 Know about my experiences [https://uinclis.github.io/](https://uinclis.github.io/)
+- 📄 Know about my experiences [www.uinclis.com](www.uinclis.com)
 
 - 🌍 Germany, Baden-Wüttenberg
 
