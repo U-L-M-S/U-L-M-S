@@ -92,16 +92,8 @@
 
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
-<div align=left>
-  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
-</div>
-
 <div align=center>
-  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
-</div>
-
-<div align=right>
-  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+  <img width=700 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </div>
 
 <br/>
