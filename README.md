@@ -96,6 +96,14 @@
   <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </div>
 
+<div align=center>
+  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+</div>
+
+<div align=right>
+  <img width=400 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+</div>
+
 <br/>
 
 <h3 align="center">
