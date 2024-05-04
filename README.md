@@ -98,17 +98,6 @@
 
 <br/>
 
-
-<h2 align="left">😂 Dev Meme 😂</h2>
-
-<div align=left>
-  <img width=400 src='https://randommeme-five.vercel.app/'/>
-</div>
-
-
-<br/>
-
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+always+down+to+collab😁">
 </h3>
