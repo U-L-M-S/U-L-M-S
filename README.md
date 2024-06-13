@@ -87,7 +87,6 @@
 <br/><br/>
 <hr/>
 
-
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
 <div align=center>
@@ -101,4 +100,3 @@
 </h3>
 
 <br/>
-
