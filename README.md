@@ -68,8 +68,12 @@
 <h2>💉 Pentesting stats 💉</h2>
 
 <div align="left">
-  <a href="https://app.hackthebox.com/profile/1621662"> <img src="http://www.hackthebox.eu/badge/image/1621662" height=57 alt="Hack The Box TheTorva"> </a>
-  <a href="https://tryhackme.com/p/TorvaMessor">  <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" alt="TryHackMe"> </a>
+  <a href="https://app.hackthebox.com/profile/1621662">
+    <img src="http://www.hackthebox.eu/badge/image/1621662" height="100" alt="Hack The Box TheTorva">
+  </a>
+  <a href="https://tryhackme.com/p/TorvaMessor">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" height="100" alt="TryHackMe">
+  </a>
 </div>
 
 <h2 align="left">⚡ Coding Stats ⚡</h2>
