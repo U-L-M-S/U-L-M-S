@@ -93,7 +93,7 @@
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
 <div align=center>
-  <img width=700 src='https://github-readme-quotes-5tf1nvez2-ulms-projects.vercel.app/api?type=horizontal&theme=radical'/>
+  <img width=700 src='https://https://quotes.uinclis.de/api?type=horizontal&theme=radical'/>
 </div>
 
 <br/>
