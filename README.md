@@ -13,13 +13,13 @@
 - 🤝 I’m looking for help with **any projects**
 
 - 📫 How to reach me **uinclis[at]outlook.de**
- 
+
 - 📄 Know about my experiences [www.uinclis.de](https://www.uinclis.de)
 
 - 🌍 Germany, Baden-Wüttenberg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
- 
+
 <p align="left">
 </p>
 
@@ -41,7 +41,7 @@
 
  <h2>🐧 OS/Distros 🐧 </h2>
 
-> Yup, *I use Arch btw* 😁
+> Yup, _I use Arch btw_ 😁
 
 <p>
   <a alt="Arch">
@@ -88,12 +88,13 @@
 </div>
 
 <br/><br/>
+
 <hr/>
 
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
 <div align=center>
-  <img width=700 src='https://quotes.uinclis.de/api?type=horizontal&theme=radical'/>
+  <img width=700 src='https://quotes-github-readme.vercel.app?type=horizontal&theme=radical'/>
 </div>
 
 <br/>
