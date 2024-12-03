@@ -39,7 +39,6 @@
   </a>
 </p>
 
-
  <h2>🐧 OS/Distros 🐧 </h2>
 
 > Yup, _I use Arch btw_ 😁
@@ -87,6 +86,7 @@
   <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=u-l-m-s&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img width=400 src="https://leetcard.jacoblin.cool/u-l-m-s?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
 </div>
+
 
 <br/><br/>
 
