@@ -76,6 +76,8 @@
   </a>
 </div>
 
+
+
 <h2 align="left">⚡ Coding Stats ⚡</h2>
 
 <br>
@@ -90,8 +92,6 @@
 <br/><br/>
 
 <hr/>
-
-
 
 <h2 align="left">✍️ Dev Quote ✍️</h2>
 
