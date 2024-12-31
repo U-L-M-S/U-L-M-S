@@ -76,8 +76,6 @@
   </a>
 </div>
 
-
-
 <h2 align="left">⚡ Coding Stats ⚡</h2>
 
 <br>
