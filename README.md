@@ -25,7 +25,6 @@
 
 <h2 align="left">💻 Programming/Markup Languages 💻</h2>
 
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,html,css,py,js,php,mysql,perl,md&theme=dark" />
@@ -76,7 +75,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" height="100" alt="TryHackMe">
   </a>
 </div>
-
 
 <h2 align="left">⚡ Coding Stats ⚡</h2>
 
