@@ -98,7 +98,6 @@
   <img width=700 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </div>
 
-
 <br/>
 
 <h3 align="center">
