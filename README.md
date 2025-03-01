@@ -1,5 +1,6 @@
 <h1 align="center">🇧🇷 Hey! I'm Uinclis 🇩🇪</h1>
 
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=💻+I'm+a+Software+Developer+💻;🧑‍💻+on+my+way+to+become+a+Problem+Solver+🧑‍💻" />
 </h3>
