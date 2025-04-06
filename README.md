@@ -39,7 +39,6 @@
   </a>
 </p>
 
-
  <h2>🐧 OS/Distros 🐧 </h2>
 
 > Yup, _I use Arch btw_ 😁
