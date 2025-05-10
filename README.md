@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=💻+I'm+a+Software+Developer+💻;🧑‍💻+on+my+way+to+become+a+Problem+Solver+🧑‍💻" />
 </h3>
 
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
 - 🔭 I’m currently working on [GFN Freiburg](https://www.gfn.de/standorte/freiburg/)
