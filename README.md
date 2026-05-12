@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-- 🔭 I’m currently working on [KD - Holding GmbH](https://www.karldischinger.eu/)
+- 🔭 I’m currently working on [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
 
 - 🌱 I’m currently learning **Cyber Security**
 
