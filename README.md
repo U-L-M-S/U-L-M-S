@@ -12,9 +12,11 @@
 
 - 🤝 I’m open to collaborating on **open-source projects**
 
-- 📫 How to reach me **uinclis[at]outlook.de**
+- 📫 How to reach me: **uinclis[at]outlook.de**
 
-- 📄 Know about my experiences [www.uinclis.de](https://www.uinclis.de)
+- 📄 Know about my experiences [uinclis.de](https://www.uinclis.de) [GERMAN]
+
+- 📄 Know about my experiences [uinclis.com](https://www.uinclis.com) [ENGLISH]
 
 - 🌍 Germany, Baden-Württenberg
 
