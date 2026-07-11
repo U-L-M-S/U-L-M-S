@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
 
-- 🌱 I’m currently diving into **AI-powered applications (Spring AI, MCP, RAG)** & preparing for **AZ-900**
+- 🌱 I’m currently diving into **AI-powered applications (Spring AI, MCP, RAG)**
 
 - 🤝 I’m open to collaborating on **open-source projects**
 
