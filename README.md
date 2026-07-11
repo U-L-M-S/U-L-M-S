@@ -6,17 +6,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-- 🔭 I’m currently working on [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
+- 🔭 I’m currently working at [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently diving into **AI-powered applications (Spring AI, MCP, RAG)** & preparing for **AZ-900**
 
-- 🤝 I’m looking for help with **any projects**
+- 🤝 I’m open to collaborating on **open-source projects**
 
 - 📫 How to reach me **uinclis[at]outlook.de**
 
 - 📄 Know about my experiences [www.uinclis.de](https://www.uinclis.de)
 
-- 🌍 Germany, Baden-Wüttenberg
+- 🌍 Germany, Baden-Württenberg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
 
@@ -35,9 +35,10 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,dotnet,bootstrap,docker,vim,neovim,vscode,django,linux,nodejs,postman,obsidian&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,react,docker,kubernetes,git,github,linux,nodejs,vim,vscode,postman,obsidian&theme=dark" />
   </a>
 </p>
+
 
  <h2>🐧 OS/Distros 🐧 </h2>
 
