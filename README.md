@@ -14,7 +14,7 @@
 
 - 🔬 Side quest: **OPC UA** → live VR digital twin
 
-- 🎓 Certified **Fachinformatiker – Anwendungsentwicklung** <br/> (IHK, March 2026)
+- 🎓 Certified **Fachinformatiker – Anwendungsentwicklung**
 
 - 🤝 I’m open to collaborating on **open-source projects**
 
