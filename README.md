@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working at [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
 
-- 🌱 I’m currently diving into **industrial automation** — PLC programming with **Beckhoff TwinCAT 3** (Structured Text) and wiring it up to Java services
+- 🌱 Diving into **industrial automation** <br/> — Beckhoff TwinCAT 3 (ST), bridged to Java
 
-- 🤖 Building on the side: **self-hosted AI tooling** — MCP servers, agentic workflows with Claude Code, and a Firefly III finance cockpit
+- 🤖 Building **self-hosted AI tooling** <br/> — MCP servers, Claude Code agents, Firefly III cockpit
 
-- 🔬 Side quest: tapping industrial machines over **OPC UA** to feed a live VR digital twin
+- 🔬 Side quest: **OPC UA** → live VR digital twin
 
-- 🎓 Certified **Fachinformatiker – Anwendungsentwicklung** (IHK, March 2026)
+- 🎓 Certified **Fachinformatiker – Anwendungsentwicklung** <br/> (IHK, March 2026)
 
 - 🤝 I’m open to collaborating on **open-source projects**
 
