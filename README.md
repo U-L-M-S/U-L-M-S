@@ -8,7 +8,13 @@
 
 - 🔭 I’m currently working at [Muckenhirn Automation GmbH](https://www.muckenhirn-automation.de/)
 
-- 🌱 I’m currently diving into **AI-powered applications (Spring AI, MCP, RAG)**
+- 🌱 I’m currently diving into **industrial automation** — PLC programming with **Beckhoff TwinCAT 3** (Structured Text) and wiring it up to Java services
+
+- 🤖 Building on the side: **self-hosted AI tooling** — MCP servers, agentic workflows with Claude Code, and a Firefly III finance cockpit
+
+- 🔬 Side quest: tapping industrial machines over **OPC UA** to feed a live VR digital twin
+
+- 🎓 Certified **Fachinformatiker – Anwendungsentwicklung** (IHK, March 2026)
 
 - 🤝 I’m open to collaborating on **open-source projects**
 
@@ -18,7 +24,7 @@
 
 - 📄 Know about my experiences [uinclis.com](https://www.uinclis.com) [ENGLISH]
 
-- 🌍 Germany, Baden-Württenberg
+- 🌍 Germany, Baden-Württemberg
 
 <br clear="right"/>
 
