@@ -24,7 +24,7 @@
 
 <h2 align="center">🧠 My Obsidian Second Brain 🧠</h2>
 <p align="center">
-  <img src="https://github.com/U-L-M-S/U-L-M-S/blob/main/graph-animation.webp?raw=true" width="500" alt="Obsidian Graph">
+  <img alt="Obsidian Graph" width="800" height="466" alt="graph" src="https://github.com/user-attachments/assets/1996f101-3392-4fb7-879f-bb0943994565" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
